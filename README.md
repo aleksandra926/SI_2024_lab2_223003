@@ -17,6 +17,7 @@
 ![MultipleCondition](https://github.com/aleksandra926/SI_2024_lab2_223003/assets/139005138/5536102d-167d-443e-a280-468373268f80)
 
 if (item.getPrice() > 300 && item.getDiscount() > 0 && item.getBarcode().charAt(0) == '0')
+
 Затоа што имаме if услов кој е поврзан со && мора сите услови во него да се точни за да целиот if биде точен.
 
 1. TTT
